@@ -5,4 +5,3 @@ This is the pinteresting sample application for
 
 by [Scott Werner]
 
-this is Pretty cool
